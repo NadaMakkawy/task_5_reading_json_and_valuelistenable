@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "phone_number": "123-456-7890",
+    "address": "123 Main St"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 25,
+    "phone_number": "987-654-3210",
+    "address": "456 Elm St"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 28,
+    "phone_number": "555-123-4567",
+    "address": "789 Maple St"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "age": 35,
+    "phone_number": "444-555-6666",
+    "address": "321 Oak St"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "age": 40,
+    "phone_number": "333-777-8888",
+    "address": "654 Pine St"
+  }
+]
