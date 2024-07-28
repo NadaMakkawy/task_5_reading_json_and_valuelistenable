@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'models/person.dart';
+
+import '../models/person.dart';
 
 class PersonList extends StatefulWidget {
   const PersonList({super.key});

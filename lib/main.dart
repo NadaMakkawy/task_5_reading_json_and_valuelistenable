@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'persons_list.dart';
+import 'pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,15 +11,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: AppBar(
-          centerTitle: true,
-          title: const Text('Flutter JSON Example'),
-        ),
-        body: const PersonList(),
-      ),
+      home: HomePage(),
     );
   }
 }
